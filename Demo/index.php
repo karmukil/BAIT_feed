@@ -8,6 +8,6 @@ require 'config/config.php';
 	<title>Welcome to BAITfeed</title>
 </head>
 <body>
-	Hello Reece!!!!!
+	Hello Karmukil!!!!!
 </body>
 </html>
